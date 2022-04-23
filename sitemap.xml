@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bdlmh.github.io/gushixinbian/chapter1/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bdlmh.github.io/pride/chapter1/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdlmh.github.io/pride/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdlmh.github.io/gushixinbian/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdlmh.github.io/emma/chapter1/</loc>
@@ -13,6 +19,9 @@
   </url><url>
     <loc>https://bdlmh.github.io/pride_and_prejudice/chapter1/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdlmh.github.io/gushixinbian/chapter2/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdlmh.github.io/emma/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
@@ -32,16 +41,37 @@
     <loc>https://bdlmh.github.io/pride_and_prejudice/chapter3/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://bdlmh.github.io/gushixinbian/chapter3/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdlmh.github.io/gushixinbian/chapter4/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bdlmh.github.io/pride_and_prejudice/chapter4/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdlmh.github.io/gushixinbian/chapter5/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdlmh.github.io/pride_and_prejudice/chapter5/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://bdlmh.github.io/gushixinbian/chapter6/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bdlmh.github.io/pride_and_prejudice/chapter6/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://bdlmh.github.io/gushixinbian/chapter7/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdlmh.github.io/gushixinbian/chapter8/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdlmh.github.io/gushixinbian/chapter9/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bdlmh.github.io/</loc>
-    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
   </url>
 </urlset>
